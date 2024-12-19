@@ -80,7 +80,7 @@ const Navbar = () => {
         alignItems: "center",
         justifyContent: "center",
         position: "fixed",
-        height: { xs: "10vh", md: "7vh", lg: "10vh" },
+        height: { xs: "10vh", md: "8.5vh", lg: "10vh" },
         top: "3%",
         left: "50%",
         transform: "translateX(-50%)",
@@ -170,7 +170,7 @@ const Navbar = () => {
             onClick={handleOpen}
             sx={{ display: { xs: "block", md: "none" } }}
           >
-            <Menu sx="large" />
+            <Menu sx="medium" />
           </StyledIconButton>
         </Box>
         <Drawer anchor="right" open={open} onClose={handleClose}>
