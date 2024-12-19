@@ -10,36 +10,36 @@ import { FaFacebook, FaLinkedin } from "react-icons/fa6";
 export const pages = ["services", "offers", "about us", "help", "career"];
 
 export const nagadFeatures = [
-  { id: 1, image: "/public/assets/ino.png", text: "Send Money" },
-  { id: 2, image: "/public/assets/ino2.png", text: "Cash Out" },
-  { id: 3, image: "/public/assets/ino3.png", text: "Remittance" },
-  { id: 4, image: "/public/assets/ino4.png", text: "Nagad Islamic" },
-  { id: 5, image: "/public/assets/ino5.png", text: "Mobile Recharge" },
-  { id: 6, image: "/public/assets/ino6.png", text: "EMI Payment" },
-  { id: 7, image: "/public/assets/ino7.png", text: "More" },
-  { id: 8, image: "/public/assets/ino8.png", text: "Bill Payment" },
-  { id: 9, image: "/public/assets/ino9.png", text: "Merchant Payment" },
-  { id: 10, image: "/public/assets/ino10.png", text: "Savings" },
-  { id: 11, image: "/public/assets/ino11.png", text: "Loan" },
-  { id: 12, image: "/public/assets/ino13.png", text: "Insurance" },
-  { id: 13, image: "/public/assets/ino15.png", text: "Others" },
+  { id: 1, image: "/assets/ino.png", text: "Send Money" },
+  { id: 2, image: "/assets/ino2.png", text: "Cash Out" },
+  { id: 3, image: "/assets/ino3.png", text: "Remittance" },
+  { id: 4, image: "/assets/ino4.png", text: "Nagad Islamic" },
+  { id: 5, image: "/assets/ino5.png", text: "Mobile Recharge" },
+  { id: 6, image: "/assets/ino6.png", text: "EMI Payment" },
+  { id: 7, image: "/assets/ino7.png", text: "More" },
+  { id: 8, image: "/assets/ino8.png", text: "Bill Payment" },
+  { id: 9, image: "/assets/ino9.png", text: "Merchant Payment" },
+  { id: 10, image: "/assets/ino10.png", text: "Savings" },
+  { id: 11, image: "/assets/ino11.png", text: "Loan" },
+  { id: 12, image: "/assets/ino13.png", text: "Insurance" },
+  { id: 13, image: "/assets/ino15.png", text: "Others" },
 ];
 
 export const slides = [
   {
-    image: "/public/assets/XmZr3hIfECzpImbLE9LeGLc5WMXugbGcgIBvcw60.jpg",
+    image: "/assets/XmZr3hIfECzpImbLE9LeGLc5WMXugbGcgIBvcw60.jpg",
     text: "Mobile recharge",
   },
   {
-    image: "/public/assets/sfSDVkAmRewopLXQc7YAgEiXsfUqo954N6oXpen2.jpg",
+    image: "/assets/sfSDVkAmRewopLXQc7YAgEiXsfUqo954N6oXpen2.jpg",
     text: "E-comarce",
   },
   {
-    image: "/public/assets/MQLPF1xAC73lai0KbKFlgq001PQdyDrVeMlR7mIY.jpg",
+    image: "/assets/MQLPF1xAC73lai0KbKFlgq001PQdyDrVeMlR7mIY.jpg",
     text: "ISP & DTH",
   },
   {
-    image: "/public/assets/pxyYFio48eHlsmGl8cIbqtOx4bwMyd3AbaTkn6yb.jpg",
+    image: "/assets/pxyYFio48eHlsmGl8cIbqtOx4bwMyd3AbaTkn6yb.jpg",
     text: "Payment",
   },
 ];
@@ -47,31 +47,31 @@ export const slides = [
 export const guideimg = [
   {
     heading: "Step 1",
-    image: "/public/assets/lasyloading.png",
+    image: "/assets/lasyloading.png",
     subheading: "scan your nid and share necesary information",
   },
   {
     heading: "Step 2",
-    image: "/public/assets/lasyloading2.png",
+    image: "/assets/lasyloading2.png",
     subheading: "take a selfie and put your digital signature",
   },
   {
     heading: "Step 3",
-    image: "/public/assets/lasyloading3.png",
+    image: "/assets/lasyloading3.png",
     subheading: "set your 4-digit pin",
   },
 ];
 
 export const customers = [
-  "/public/assets/customer1.jpg",
-  "/public/assets/customer2.jpg",
-  "/public/assets/customer3.jpg",
-  "/public/assets/customer4.jpg",
-  "/public/assets/customer5.jpg",
-  "/public/assets/customer6.jpg",
-  "/public/assets/customer7.jpg",
-  "/public/assets/customer8.jpg",
-  "/public/assets/customer1.jpg",
+  "/assets/customer1.jpg",
+  "/assets/customer2.jpg",
+  "/assets/customer3.jpg",
+  "/assets/customer4.jpg",
+  "/assets/customer5.jpg",
+  "/assets/customer6.jpg",
+  "/assets/customer7.jpg",
+  "/assets/customer8.jpg",
+  "/assets/customer1.jpg",
 ];
 
 export const ftIcons = [FaFacebook, BiLogoInstagramAlt, FaYoutube, FaLinkedin];
