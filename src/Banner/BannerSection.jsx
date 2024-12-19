@@ -32,8 +32,8 @@ const BannerSection = () => {
             variant="square"
             src={
               isMobile
-                ? "/public/assets/FjkJgdH7ilGQ4mPFlsGtjCvvET3NfLA8khpFWe0T.jpg"
-                : "/public/assets/Banner2.jpg"
+                ? "/assets/FjkJgdH7ilGQ4mPFlsGtjCvvET3NfLA8khpFWe0T.jpg"
+                : "/assets/Banner2.jpg"
             }
             sx={{
               height: "100%",
@@ -46,11 +46,7 @@ const BannerSection = () => {
         <SwiperSlide>
           <Avatar
             variant="square"
-            src={
-              isMobile
-                ? "/public/assets/bannermobile.jpg"
-                : "/public/assets/Banner.jpg"
-            }
+            src={isMobile ? "/assets/bannermobile.jpg" : "/assets/Banner.jpg"}
             sx={{ height: "100%", width: "100%", objectFit: "contain" }}
           />
         </SwiperSlide>

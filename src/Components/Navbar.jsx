@@ -91,7 +91,7 @@ const Navbar = () => {
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          height: "100%",
+          height: "80%",
           width: "100%",
           padding: "5px 25px  !important",
         }}
@@ -108,7 +108,7 @@ const Navbar = () => {
           <Avatar
             sx={{ height: "40%", width: "fit-content" }}
             variant="square"
-            src="/assets/nagad logo.png"
+            src="/assets/nagad-logo.png"
           />
           <Box sx={{ display: { xs: "none", md: "block" } }}>
             <Stack
