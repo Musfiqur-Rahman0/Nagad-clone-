@@ -10,7 +10,7 @@ const Addanimation = () => {
     >
       <Avatar
         sx={{ height: "40%", width: "100%" }}
-        src="/public/assets/about1st.gif"
+        src="/assets/about1st.gif"
         variant="rounded"
       />
       <StyledHeading>Nagad ~ A DSF of the bangladesh post office</StyledHeading>

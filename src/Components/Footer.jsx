@@ -36,7 +36,7 @@ const Footer = () => {
       <Container maxWidth="2xl" sx={{ padding: "0px 5% !important" }}>
         <StyledStack>
           <Avatar
-            src="/public/assets/dakLogo.5e37448.svg"
+            src="/assets/dakLogo.5e37448.svg"
             sx={{
               height: { xs: "60px", md: "120px" },
               width: { xs: "60px", md: "120px" },
@@ -46,7 +46,7 @@ const Footer = () => {
             <SocialLinks />
           </div>
           <Avatar
-            src="/public/assets/nagad logo.png"
+            src="/assets/nagad logo.png"
             sx={{ height: { xs: "60px", md: "120px" }, width: "fit-content" }}
             variant="square"
           />

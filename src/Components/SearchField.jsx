@@ -53,7 +53,7 @@ const SearchField = ({ handleSearchFieldClose }) => {
             px: "25px !important",
           }}
         >
-          <Avatar src="/public/assets/nagad.png" />
+          <Avatar src="/assets/nagad.png" />
           <Autocomplete
             disablePortal
             options={top100Films}

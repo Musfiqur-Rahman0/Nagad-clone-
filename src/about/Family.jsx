@@ -14,7 +14,7 @@ const Family = () => {
     >
       <Avatar
         sx={{ height: "40%", width: "100%" }}
-        src="/public/assets/aboutbanner.jpg"
+        src="/assets/aboutbanner.jpg"
         variant="rounded"
       />
       <StyledPara px={5}>
@@ -37,7 +37,7 @@ const Family = () => {
       >
         <Avatar
           sx={{ height: "100%", width: { xs: "100%", md: "50%" } }}
-          src="/public/assets/threat.jpg"
+          src="/assets/threat.jpg"
           variant="rounded"
         />
         <Box sx={{ textAlign: "start", height: "100%" }} className="space-y-2">
